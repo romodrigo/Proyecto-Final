@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.31428mm"
+   height="110.31428mm"
+   viewBox="0 0 110.31427 110.31427"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46769781"
+     inkscape:cx="109.04477"
+     inkscape:cy="269.40472"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-57.702858,-77.502861)">
+    <circle
+       style="fill:#000080;fill-opacity:1;stroke-width:0.997;stroke-dasharray:none"
+       id="path286"
+       cx="112.86"
+       cy="132.66"
+       r="55.157143" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.197"
+       id="path288"
+       cx="112.86"
+       cy="132.66"
+       r="49.782856" />
+    <circle
+       style="fill:#000080;fill-opacity:1;stroke-width:0.197"
+       id="path398"
+       cx="112.86"
+       cy="132.66"
+       r="44.125713" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:93.0464px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff;fill-opacity:1;stroke-width:2.16498"
+       x="89.961861"
+       y="161.91873"
+       id="text402"><tspan
+         sodipodi:role="line"
+         id="tspan400"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.16498"
+         x="89.961861"
+         y="161.91873">F</tspan></text>
+  </g>
+</svg>
